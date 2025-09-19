@@ -1,5 +1,4 @@
 # Low-light-Image-Enhancement-using-Lenet-and-Unet
-# Low-Light Image Enhancement using Hybrid LeNet + U-Net
 
 This project implements a **hybrid deep learning model** that combines **LeNet** (for feature extraction) and **U-Net** (for image-to-image enhancement).  
 The model enhances visibility and preserves details in images captured under low-light conditions.
